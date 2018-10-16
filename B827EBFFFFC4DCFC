@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFFC4DCFC",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 37.97708598911404,
+    "ref_longitude": 23.673144578933716,
+    "ref_altitude": 22,
+    "contact_email": "sirviperg2@gmail.com",
+    "description": "university project"
+  }
+}
